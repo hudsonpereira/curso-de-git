@@ -1,0 +1,23 @@
+{
+  "name": "curso-de-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudsonpereira/curso-de-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudsonpereira/curso-de-git/issues"
+  },
+  "homepage": "https://github.com/hudsonpereira/curso-de-git#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

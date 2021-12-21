@@ -1,4 +1,4 @@
-Criar um repositório
-Adicionar mudanças
-Configurar o repositório no local
+Criar um repositório - feito
+Adicionar mudanças - feito
+Configurar o repositório no local - feito
 Enviar mudanças

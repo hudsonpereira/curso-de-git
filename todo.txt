@@ -1,0 +1,4 @@
+Criar um repositório
+Adicionar mudanças
+Configurar o repositório no local
+Enviar mudanças
